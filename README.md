@@ -11,4 +11,5 @@
 | 01/10/2022 | Dealing with Shaders in OpenGL                               | 5/res/shaders/Basic.shader<br />5/src/main.cpp               |
 | 01/10/2022 | Index Buffers in OpenGL                                      | 6/main.cpp                                                   |
 | 01/10/2022 | Dealing with Errors in OpenGL                                | 7/main.cpp                                                   |
+| 01/10/2022 | Uniforms in OpenGL                                           | 8/main.cpp                                                   |
 
